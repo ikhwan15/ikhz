@@ -97,9 +97,9 @@ var randomRelatedIndex, showRelatedPost;
 window.onload = function() {
     var e = document.getElementById("copyright");
     if (e == null) {
-        window.location.href = "http://www.bangjonie.blospot.co.id"
+        window.location.href = "http://www.bangjonie.blogspot.co.id"
     }
-    e.setAttribute("href", "http://www.bangjonie.blospot.co.id");
+    e.setAttribute("href", "http://www.bangjonie.blogspot.co.id");
     e.setAttribute("rel", "nofollow");
     e.innerHTML = "SEO Blog"
 }
