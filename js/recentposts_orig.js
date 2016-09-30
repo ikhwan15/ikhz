@@ -186,18 +186,7 @@ var s;
 
 }
 
-if(float_clear==true && imgFloat!="none")
-{
-myDiv = createDiv("bp_clear_float");
-myDiv.style.clear=imgFloat;
-main.appendChild(myDiv);
-}
-document.getElementById("bp_recent_link").style.backgroundImage="url('http://3.bp.blogspot.com/-H8WPIh3wjr4/TmHnuo9tnnI/AAAAAAAACDE/_yuVqfb1HAk/blogger-widgets.png')";
-document.getElementById("bp_recent_link").style.backgroundRepeat="no-repeat";
-try{
-if(myMargin!=0 && imgFloat=="left" && flag==0) document.getElementById("bp_recent_link").style.marginLeft = myMargin+"px";
-} catch(error){}
-}
+
 
 
 function createDiv(className)
