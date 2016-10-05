@@ -1,11 +1,3 @@
-posts_no_thumb_sum = 300;
-posts_thumb_sum = 280;
-img_thumb_height = 120;
-img_thumb_width = 160;
-</script>
-
-<script type='text/javascript'>
-//<![CDATA[
 function removeHtmlTag(strx,chop){
 if(strx.indexOf("<")!=-1)
 {
