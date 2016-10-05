@@ -1,6 +1,4 @@
-/* this folder used to simple grid theme from arlinadz 
-/* I used this file to link to my website gayoarabica.com 
-
-thks
+/* this folder used for simple grid theme from arlinadz 
+/* I used these files to linking to my website gayoarabica.com 
 
 
