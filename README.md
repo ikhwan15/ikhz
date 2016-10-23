@@ -1,2 +1,2 @@
 # ikhz
-# Just test please
+Blogger Theme Files
