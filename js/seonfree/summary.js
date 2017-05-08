@@ -30,9 +30,9 @@ div.innerHTML = summary;
 window.onload = function() {
     var e = document.getElementById("copyright");
     if (e == null) {
-        window.location.href = "http://www.bangjonie.blogspot.co.id"
+        window.location.href = "http://www.seo-blog.id"
     }
-    e.setAttribute("href", "http://www.bangjonie.blogspot.co.id");
+    e.setAttribute("href", "http://www.seo-blog.id");
     e.setAttribute("rel", "nofollow");
-    e.innerHTML = "SEO Blog"
+    e.innerHTML = "SEOBlogid"
 }
