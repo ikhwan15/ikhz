@@ -1,9 +1,9 @@
 var randomRelatedIndex, showRelatedPost;
 (function(n, m, k) {
     var d = {
-        widgetTitle: "<h4>Artikel Terkait:</h4>",
+        widgetTitle: "<h4>Related Terkait:</h4>",
         widgetStyle: 1,
-        homePage: "http://www.contohblog.com",
+        homePage: "http://www.seoblog.id",
         numPosts: 6,
         summaryLength: 370,
         titleLength: "auto",
@@ -11,7 +11,7 @@ var randomRelatedIndex, showRelatedPost;
         noImage: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC",
         containerId: "related-post",
         newTabLink: false,
-        moreText: "Baca Selengkapnya",
+        moreText: "Read more",
         callBack: function() {}
     };
     for (var f in relatedPostConfig) {
